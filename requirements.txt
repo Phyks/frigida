@@ -1,0 +1,4 @@
+apksigcopier
+jinja2
+lief
+requests
